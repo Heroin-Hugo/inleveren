@@ -10,9 +10,8 @@
 ## Wat heb ik gemaakt?
 
 <!-- Beschrijf kort je mini-level. Wat moet de speler doen? Wat is het doel? -->
-
-...
 Ik heb een mini-level gemaakt waar je een deur hebt die je moet openen terwijl je achtervolgt wordt door een vijand
+...
 ---
 
 ## Screenshot / GIF van je level
@@ -47,8 +46,8 @@ void Update()
 
 <!-- Welk object heeft een collider of trigger, en wat gebeurt er? -->
 
-...
 De deur, speler, vijand en key hebben allemaal een Trigger.
+...
 ```csharp
 // Plak hier de OnCollisionEnter/OnTriggerEnter code die je hebt gebruikt.
     private void OnTriggerEnter(Collider other)
