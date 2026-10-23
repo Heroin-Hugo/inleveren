@@ -19,7 +19,7 @@ Ik heb een mini-level gemaakt waar je een deur hebt die je moet openen terwijl j
 <!-- Voeg hieronder een screenshot of een GIF toe van je werkende level.
      Sleep het bestand naar deze map en gebruik dan de syntax hieronder. -->
 
-![Mini-level preview](images/level.gif)
+<img width="800" height="403" alt="miniProjectGif" src="https://github.com/user-attachments/assets/0892ccdd-d2f5-43a3-98fa-01c3cf77be0c" />
 
 <!-- Tip: gebruik ShareX, LICEcap of de ingebouwde Xbox Game Bar (Win+G) om een GIF op te nemen. -->
 
