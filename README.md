@@ -1,3 +1,5 @@
+
+
 # Mini-level — Inleveren
 
 **Naam: Hugo Jager** <!-- jouw naam -->  
@@ -103,6 +105,9 @@ De vijand die je achtervolgt.
 
 <!-- Wat lukte je makkelijk of waar ben je trots op? -->
 Ja het was erg makkelijk, ik hoefde maar een paar extra regels code te schrijven omdat ik al een andere opdracht had, die er 10 keer mooier uitziet maar die ik niet mocht inleveren voor het miniproject.
+
+<img width="800" height="403" alt="triggerOpdracht" src="https://github.com/user-attachments/assets/6eb5a0db-6fb3-4871-91e9-5a425e385693" />
+
 ...
 
 ### Wat vond je lastig? en waarom?
